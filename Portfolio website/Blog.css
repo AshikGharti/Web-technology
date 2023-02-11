@@ -1,0 +1,19 @@
+body{
+    background-color: #222;
+}
+.Blog-text {
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+  }
+  .Blog-text h1{
+    color: #e5e5e5;
+    font-size: 14px;
+  }
+  .Blog-text h1 span{
+    color: #007ced;
+    font-size: 16px;
+  }
+  .Blog-text p{
+    color: #e5e5e5;
+  }
